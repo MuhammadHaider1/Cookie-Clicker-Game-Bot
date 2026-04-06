@@ -72,6 +72,7 @@ while True:
         # Reset timer
         timeout = time() + wait_time
 
+
     # Stop after 5 minutes
     if time() > five_min:
         try:
